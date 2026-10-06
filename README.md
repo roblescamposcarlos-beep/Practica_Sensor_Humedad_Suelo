@@ -102,21 +102,3 @@ recalcular lecturas crudas.
 Regar solo cuando la tierra lo necesita evita desperdiciar agua y reduce el
 riego excesivo, que daña a las plantas. Es la base de los sistemas de riego
 inteligente que cuidan este recurso.
-
-## 10. Estructura del repositorio
-
-```
-├── README.md
-├── codigo/
-│   └── humedad_suelo.ino
-├── imagenes/
-│   ├── diagrama_tinkercad.png
-│   ├── armado_led_encendido.jpg
-│   ├── armado_completo.jpg
-│   └── monitor_serie.png
-├── video/
-│   ├── enlace.txt
-│   └── README.md          enlace clicable a la prueba en vivo
-└── resultados/
-    └── Resultados.pdf     lo aprendido en esta práctica
-```
