@@ -23,7 +23,7 @@ uso eficiente del agua.
 - Arduino UNO R4 WiFi
 - Sensor de humedad de suelo (sonda con módulo)
 - LED rojo
-- Resistencia para el LED
+- Resistencia de 220 Ω para el LED
 - Protoboard
 - Cables Dupont
 - Vaso con tierra
@@ -36,7 +36,7 @@ uso eficiente del agua.
 | Sensor de humedad — alimentación | 5V |
 | Sensor de humedad — tierra | GND |
 | Sensor de humedad — señal | A0 |
-| LED (con resistencia en serie) | Pin digital 13 → GND |
+| LED (con resistencia de 220 Ω en serie) | Pin digital 13 → GND |
 
 ![Diagrama del circuito en Tinkercad](imagenes/diagrama_tinkercad.png)
 
