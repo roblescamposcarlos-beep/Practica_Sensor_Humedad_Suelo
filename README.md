@@ -40,6 +40,10 @@ uso eficiente del agua.
 
 ![Diagrama del circuito en Tinkercad](imagenes/diagrama_tinkercad.png)
 
+> **Nota:** Tinkercad no incluye el Arduino UNO R4 WiFi, por eso el diagrama
+> muestra un Arduino UNO. Las conexiones (5V, GND, `A0` y pin 13) son las mismas
+> en la placa real que se usó, un UNO R4 WiFi.
+
 ## 5. Funcionamiento del código
 
 Código completo en [`codigo/humedad_suelo.ino`](codigo/humedad_suelo.ino).
@@ -56,7 +60,8 @@ Código completo en [`codigo/humedad_suelo.ino`](codigo/humedad_suelo.ino).
 
 ## 6. Evidencia de armado
 
-Montaje con el sensor en la tierra húmeda y el LED encendido durante la prueba:
+Montaje con el sensor en el vaso de tierra y el LED encendido, que es la señal
+de alerta cuando la humedad está por debajo del 40 %:
 
 ![Armado con el LED encendido](imagenes/armado_led_encendido.jpg)
 
